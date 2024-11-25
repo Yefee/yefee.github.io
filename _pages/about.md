@@ -18,9 +18,9 @@ I'm a climate modeler, data scientist, and keyboard enthusiast with a passion fo
 
 I began my Ph.D. in the [Atmospheric and Oceanic Sciences (AOS) department](https://www.aos.wisc.edu/) at the University of Wisconsin–Madison. However, due to my advisor's new faculty appointment, I transferred to [The Ohio State University](https://geography.osu.edu/), where I ultimately received my Ph.D. Prior to this, I earned both my Bachelor's and Master's degrees in Meteorology from the [Nanjing University of Information Science and Technology](https://en.nuist.edu.cn/mainm.htm) in China.
 
-My research falls broadly under two fundamental questions: *(1) What are the causes of past and future changes in oceanic and atmospheric circulation and climate variability? (2) How can we quantitatively interpret these changes and their impacts?* I use an interdisciplinary research approach that combines a hierarchy of climate models, isotope-enabled modeling, statistical and machine learning techniques, and observations/paleoclimate proxies, aiming toward a better understanding of the physical processes that govern climate dynamics in the past and future. 
-
 Currently, I am a postdoctoral fellow in the department of physical oceanography at [WHOI](https://www.whoi.edu/), committed to conducting impactful research on global climate change. Prior to moving to WHOI, I was a postdoc at RSMAS in the [University of Miami](https://www.earth.miami.edu/).
+
+My research falls broadly under two fundamental questions: *(1) What are the causes of past and future changes in oceanic and atmospheric circulation and climate variability? (2) How can we quantitatively interpret these changes and their impacts?* I use an interdisciplinary research approach that combines a hierarchy of climate models, isotope-enabled modeling, statistical and machine learning techniques, and observations/paleoclimate proxies, aiming toward a better understanding of the physical processes that govern climate dynamics in the past and future. 
 
 Starting in January 2025, I will be an assistant professor at Northeastern University in Boston. **If you are interested in pursuing a Ph.D. in climate modeling and dynamics, please contact me!**
 
@@ -29,11 +29,11 @@ Starting in January 2025, I will be an assistant professor at Northeastern Unive
 
 ## News
 ---
-<div class="publications">
+<div class="publications1">
 <span style="color: #00BFFF; font-weight: bold;">[11/05/2024]</span>
  Chengfei recently presented his findings on interhemispheric sea surface temperature bias and Atlantic Multidecadal Variability (AMV) to a research group consisting of members from Princeton University, Rutgers University, University of Miami, and Old Dominion University.
 
-<div class="publications">
+<div class="publications2">
 <span style="color: #00BFFF; font-weight: bold;">[11/12/2024]</span>
 Chengfei recently presented his findings on interhemispheric sea surface temperature bias at WHOI.
 </div>
