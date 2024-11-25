@@ -27,6 +27,14 @@ Starting in January 2025, I will be an assistant professor at Northeastern Unive
 <br/><br/>
 <br/><br/>
 
+## News
+[11/05/2024] Chengfei recently presented his findings on interhemispheric sea surface temperature bias and Atlantic Multidecadal Variability (AMV) to a research group consisting of members from Princeton University, Rutgers University, University of Miami, and Old Dominion University.
+
+[11/12/2024] Chengfei recently presented his findings on interhemispheric sea surface temperature bias at WHOI.
+
+<br/><br/>
+<br/><br/>
+
 ## Selected Publications
 
 <div class="publications">
