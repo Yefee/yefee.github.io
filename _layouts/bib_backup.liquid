@@ -1,14 +1,5 @@
 ---
 ---
-<style>
-.author-highlight {
-  background-color: #ffeb3b; /* Yellow highlight */
-  padding: 2px 4px;
-  border-radius: 3px;
-  font-weight: 600; /* Make it slightly bold */
-}
-</style>
-
 <div class="row">
   {% if site.enable_publication_thumbnails %}
     <div class="col col-sm-2 abbr">
@@ -94,10 +85,10 @@
           {%- if forloop.last and author_array_limit == author_array_size %}and {% endif -%}
         {% endif %}
         {%- if author_is_self -%}
-          <span class="author-highlight">
+          <em>
             {{- author.first }}
             {{ author_last_html -}}
-          </span>
+          </em>
         {%- else -%}
           {%- if coauthor_url -%}
             <a href="{{ coauthor_url }}">
