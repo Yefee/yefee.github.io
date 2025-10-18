@@ -2,7 +2,7 @@
 layout: page
 title: Join!
 nav: true
-nav_order: 7
+nav_order: 5
 permalink: /join/
 # permalink: /
 # description: Climate Modeling and Dynamics, Data Science, Paleoclimate

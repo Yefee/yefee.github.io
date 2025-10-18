@@ -4,7 +4,7 @@ title: Research
 permalink: /projects/
 description: The Climate Dynamics Lab studys large-scale climate change and variability across all spectrums. Below are some expamples of our recent studies.
 nav: true
-nav_order: 1
+nav_order: 2
 display_categories: [current, previous]
 horizontal: false
 ---
