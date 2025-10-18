@@ -6,9 +6,11 @@ description: Climate Modeling and Dynamics, Data Science, Paleoclimate
 profile:
   align: right
   image: id.png
-  address: >
-    <p>Somewhere on California State Route 1, USA</p>
-
+  image_circular: false # crops the image to make it circular
+  more_info: >
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
