@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-research",
+  },{id: "nav-people",
+          title: "People",
+          description: "Members of Climate Dynamics Lab",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/people/";
+          },
+        },{id: "nav-research",
           title: "Research",
           description: "The Climate Dynamics Lab studys large-scale climate change and variability across all spectrums. Below are some expamples of our recent studies.",
           section: "Navigation",
@@ -30,26 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/iTRACE/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "nav-join",
           title: "Join!",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/join/";
-          },
-        },{id: "nav-people",
-          title: "People",
-          description: "Members of Climate Dynamics Lab",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
           },
         },{id: "dropdown-open-science",
               title: "Open Science",
