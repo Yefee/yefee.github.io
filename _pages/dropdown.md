@@ -5,9 +5,12 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
-  - title: divider
-  - title: blog
-    permalink: /blog/
+    - title: Open Science
+      permalink: /open_science/
+    - title: divider
+    - title: CV
+      permalink: /cv/
+    - title: divider
+    - title: Repositories
+      permalink: /repositories/   
 ---
