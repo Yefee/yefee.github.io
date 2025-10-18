@@ -2,13 +2,15 @@
 layout: about
 title: About
 permalink: /
-description: Climate Modeling and Dynamics, Data Science, Paleoclimate
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+
+# description: Climate Modeling and Dynamics, Data Science, Paleoclimate
 profile:
   align: right
   image: id.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
+    <p>This is a test</p>
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
