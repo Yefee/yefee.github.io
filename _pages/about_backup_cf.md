@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Climate Modeling and Dynamics, Data Science, Paleoclimate
 
 # description: Climate Modeling and Dynamics, Data Science, Paleoclimate
 profile:
@@ -26,7 +26,7 @@ announcements:
 
 
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 
@@ -34,8 +34,6 @@ social: true # includes social icons at the bottom of the page
 # selected_papers: false # includes a list of papers marked as "selected={true}"
 # social: false  # includes social icons at the bottom of the page
 ---
-This is a test on the about page!
-
 
 I'm a climate modeler, data scientist, and keyboard enthusiast with a passion for advancing our comprehension of climate change.
 
