@@ -3,6 +3,7 @@ layout: page
 title: Join!
 nav: true
 nav_order: 7
+permalink: /join/
 # permalink: /
 # description: Climate Modeling and Dynamics, Data Science, Paleoclimate
 ---
@@ -29,7 +30,7 @@ Our lab is always looking for postdocs in climate dynamics and paleoclimate at N
 ---
 Our lab is seeking graduate students to join my lab at Northeastern in Fall 2025. Prospective students with similar research interests are strongly encouraged to apply. Graduate students will primarily be supported through research assistantships, but I am also open to discussing opportunities for external fellowships from [NASA FINESST](https://astrobiology.nasa.gov/news/future-investigators-in-nasa-earth-and-space-science-and-technology-finesst-2/), [NSF GRFP](https://www.nsfgrfp.org/), [DOE CGSF](https://www.krellinst.org/csgf/), and [AMS](https://www.ametsoc.org/index.cfm/ams/information-for/students/ams-scholarships-and-fellowships/ams-graduate-fellowships/).
 
-The application deadline is **December 1, 2024**. See more details of the application [here]({{ site.baseurl }}/PhD).
+The application deadline is **December 1, 2025**. See more details of the application [here]({{ site.baseurl }}/PhD).
 
 
 
