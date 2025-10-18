@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Research
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: The Climate Dynamics Lab studys large-scale climate change and variability across all spectrums. Below are some expamples of our recent studies.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 1
+display_categories: [work]
 horizontal: false
 ---
 
