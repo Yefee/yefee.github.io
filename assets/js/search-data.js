@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-join",
+          title: "Join!",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/_pages/join/";
+          },
         },{id: "nav-people",
           title: "People",
           description: "Members of Climate Dynamics Lab",
