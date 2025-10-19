@@ -65,6 +65,7 @@ Feiyu attended his first workshop for his PhD at NCAR. Exciting! :sparkles: :smi
 Chengfei presented his latest research to the Department of Earth and Environmental Sciences at the University of Texas at Arlington.
 </div>
 
+<div class="publications1">
 <span style="color: #00BFFF; font-weight: bold;">[09/2025]</span>
  Welcome to Feiyu Huang to CLD!
 </div>
