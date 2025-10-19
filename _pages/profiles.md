@@ -18,11 +18,23 @@ profiles:
       <p>Somewhere on California State Route 1, USA</p>
 
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: tobeadded.jpg
+    content: about_feiyu.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>PhD student @Northeastern</p>
+
+
+  - align: right
+    image: tobeadded.jpg
+    content: about_feiyu.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>undergraduate@Northeastern</p>
 ---
+
+## Alumni
+Yitao Liu (2022-2024) 
+Anika Sharma, undergraduate intern (summer 2025)
+Charlie Ogle, undergraduate intern in U.Miami (summer 2023)
+
