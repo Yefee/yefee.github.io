@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Peer Review Publications
+# description: Peer Review Publications
 nav: true
 nav_order: 3
 ---
