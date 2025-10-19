@@ -10,7 +10,7 @@ profile:
   image: id.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>This is a test</p>
+    <p>Somewhere on California State Route 1, USA</p>
 
 
 
