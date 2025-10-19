@@ -15,7 +15,7 @@ profile:
 
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -27,7 +27,7 @@ announcements:
 
 
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 
@@ -49,8 +49,48 @@ Currently, I am an assistant professor at Northeastern University in Boston. Pri
 
 My research falls broadly under two fundamental questions: *(1) What are the causes of past and future changes in oceanic and atmospheric circulation and climate variability? (2) How can we quantitatively interpret these changes and their impacts?* I use an interdisciplinary research approach that combines a hierarchy of climate models, isotope-enabled modeling, statistical and machine learning techniques, and observations/paleoclimate proxies, aiming toward a better understanding of the physical processes that govern climate dynamics in the past and future. 
 
-<!-- ## Selected Publications
+
+<br/><br/>
+<br/><br/>
+
+## News
+---
+<div class="publications1">
+<span style="color: #00BFFF; font-weight: bold;">[10/2025]</span>
+Feiyu attended his first workshop for his PhD at NCAR. Exciting! :sparkles: :smile:
+</div>
+
+<div class="publications1">
+<span style="color: #00BFFF; font-weight: bold;">[09/2025]</span>
+Chengfei presented his latest research to the Department of Earth and Environmental Sciences at the University of Texas at Arlington.
+</div>
+
+<span style="color: #00BFFF; font-weight: bold;">[09/2025]</span>
+ Welcome to Feiyu Huang to CLD!
+</div>
+
+<div class="publications1">
+<span style="color: #00BFFF; font-weight: bold;">[01/2025]</span>
+ Chengfei started his new position at Northeastern University.
+</div>
+
+
+<div class="publications1">
+<span style="color: #00BFFF; font-weight: bold;">[11/05/2024]</span>
+ Chengfei recently presented his findings on interhemispheric sea surface temperature bias and Atlantic Multidecadal Variability (AMV) to a research group consisting of members from Princeton University, Rutgers University, University of Miami, and Old Dominion University.
+</div>
+
+<div class="publications2">
+<span style="color: #00BFFF; font-weight: bold;">[11/12/2024]</span>
+Chengfei recently presented his findings on interhemispheric sea surface temperature bias at WHOI.
+</div>
+
+<br/><br/>
+<br/><br/>
+
+
+## Selected Publications
 
 <div class="publications">
  {% bibliography -f chengfei --query @*[tag1=select] --group_by type %}
-</div> -->
+</div>
