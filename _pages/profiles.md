@@ -18,16 +18,16 @@ profiles:
       <p>Somewhere on California State Route 1, USA</p>
 
   - align: left
-    image: tobeadded.jpg
+    image: feiyu.jpg
     content: about_feiyu.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>PhD student @Northeastern</p>
+      <p>Feiyu Huang, PhD student</p>
 
 
   - align: right
     image: tobeadded.jpg
-    content: about_feiyu.md
+    content: xxabout_feiyu.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>undergraduate@Northeastern</p>
