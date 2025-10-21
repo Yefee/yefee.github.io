@@ -15,7 +15,7 @@ profiles:
     content: about_me.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Somewhere on California State Route 1, USA</p>
+      <p>Chengfei He, PI</p>
 
   - align: left
     image: feiyu.jpg
@@ -30,7 +30,7 @@ profiles:
     content: about_ranya.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Ranya Jain Undergraduate</p>
+      <p>Ranya Jain, Undergraduate</p>
 ---
 
 ## Alumni
