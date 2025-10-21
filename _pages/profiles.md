@@ -26,8 +26,8 @@ profiles:
 
 
   - align: right
-    image: tobeadded.jpg
-    content: xxabout_feiyu.md
+    image: RanyaJain_pfp.jpg
+    content: about_ranya.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>undergraduate@Northeastern</p>
