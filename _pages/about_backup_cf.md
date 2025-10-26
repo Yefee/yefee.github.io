@@ -10,7 +10,7 @@ profile:
   image: NA.SST.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>North Atlantic sea surface temperature</p>
+    <p>North Atlantic sea surface temperatures fluctuate in complex patterns.</p>
 
 
 
