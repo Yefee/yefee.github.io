@@ -31,12 +31,20 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Ranya Jain, Undergraduate</p>
+
+  - align: left
+    # image: RanyaJain_pfp.jpg
+    content: about_alumni.md
+    image_circular: false # crops the image to make it circular
+    # more_info: >
+    #   <p>Ranya Jain, Undergraduate</p>
 ---
 
 <br/><br/>
 <br/><br/>
+
 ## Alumni
-Yitao Liu (2022-2024) 
 Anika Sharma, undergraduate intern (summer 2025)
+Yitao Liu (2022-2024) 
 Charlie Ogle, undergraduate intern in U.Miami (summer 2023)
 
