@@ -57,7 +57,7 @@ We welcome diverse perspectives and embrace challenging questions across the ful
 ---
 <div class="publications1">
 <span style="color: #00BFFF; font-weight: bold;">[10/2025]</span>
-Feiyu attended his first workshop for his PhD at NCAR. Exciting! :sparkles: :smile:
+Feiyu attended his first workshop at NCAR in his PhD . Exciting! :sparkles: :smile:
 </div>
 
 <div class="publications1">
