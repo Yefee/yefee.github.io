@@ -40,14 +40,11 @@ social: true # includes social icons at the bottom of the page
 
 
 
+Climate Dynamics Lab (CDL) thrives on curiosity-driven research, exploring compelling questions wherever they arise in climate science, from paleoclimate to future projections. For example, we focus on understanding Atlantic Multidecadal Variability (AMV) and Interdecadal Pacific Oscillation (IPO) and their role in shaping global climate patterns. We also investigate paleoclimate dynamics, including orbital/meltwater forcing mechanisms and their impacts on monsoon systems, providing crucial context for understanding contemporary climate change. 
+Our work bridges theoretical understanding with practical applications. For example, we employ stochastic modeling to quantify the respective role of atmosphere and ocean in the global sea surface temperature variability. We use machine learning to explore predictability of ENSO. 
+Through this interdisciplinary approach, CDL aims to advance our understanding of the physical processes governing past, present, and future climate variability and change, with implications for improving climate predictions and informing climate adaptation strategies.
+We welcome diverse perspectives and embrace challenging questions across the full spectrum of climate dynamics.
 
-I'm a climate modeler, data scientist, and keyboard enthusiast with a passion for advancing our comprehension of climate change.
-
-I began my Ph.D. in the [Atmospheric and Oceanic Sciences (AOS) department](https://www.aos.wisc.edu/) at the University of Wisconsin–Madison. However, due to my advisor's new faculty appointment, I transferred to [The Ohio State University](https://geography.osu.edu/), where I ultimately received my Ph.D. Prior to this, I earned both my Bachelor's and Master's degrees in Meteorology from the [Nanjing University of Information Science and Technology](https://en.nuist.edu.cn/mainm.htm) in China.
-
-Currently, I am an assistant professor at Northeastern University in Boston. Prior to Northeastern, I did postdocs in the department of physical oceanography at [WHOI](https://www.whoi.edu/) and RSMAS in the [University of Miami](https://www.earth.miami.edu/).
-
-My research falls broadly under two fundamental questions: *(1) What are the causes of past and future changes in oceanic and atmospheric circulation and climate variability? (2) How can we quantitatively interpret these changes and their impacts?* I use an interdisciplinary research approach that combines a hierarchy of climate models, isotope-enabled modeling, statistical and machine learning techniques, and observations/paleoclimate proxies, aiming toward a better understanding of the physical processes that govern climate dynamics in the past and future. 
 
 
 <br/><br/>
