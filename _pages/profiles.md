@@ -33,6 +33,8 @@ profiles:
       <p>Ranya Jain, Undergraduate</p>
 ---
 
+<br/><br/>
+<br/><br/>
 ## Alumni
 Yitao Liu (2022-2024) 
 Anika Sharma, undergraduate intern (summer 2025)
