@@ -7,10 +7,10 @@ subtitle: Climate Modeling and Dynamics, Data Science, Paleoclimate
 # description: Climate Modeling and Dynamics, Data Science, Paleoclimate
 profile:
   align: right
-  image: id.png
+  image: NA.SST.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Somewhere on California State Route 1, USA</p>
+    <p>North Atlantic sea surface temperatures fluctuate in complex patterns.</p>
 
 
 
