@@ -41,8 +41,11 @@ social: true # includes social icons at the bottom of the page
 
 
 Climate Dynamics Lab (CDL) thrives on curiosity-driven research, exploring compelling questions wherever they arise in climate science, from paleoclimate to future projections. For example, we focus on understanding Atlantic Multidecadal Variability (AMV) and Interdecadal Pacific Oscillation (IPO) and their role in shaping global climate patterns. We also investigate paleoclimate dynamics, including orbital/meltwater forcing mechanisms and their impacts on monsoon systems, providing crucial context for understanding contemporary climate change. 
+
 Our work bridges theoretical understanding with practical applications. For example, we employ stochastic modeling to quantify the respective role of atmosphere and ocean in the global sea surface temperature variability. We use machine learning to explore predictability of ENSO. 
+
 Through this interdisciplinary approach, CDL aims to advance our understanding of the physical processes governing past, present, and future climate variability and change, with implications for improving climate predictions and informing climate adaptation strategies.
+
 We welcome diverse perspectives and embrace challenging questions across the full spectrum of climate dynamics.
 
 
